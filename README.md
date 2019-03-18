@@ -8,4 +8,4 @@ The SAMREC dataset is a set of audio recordings made with the [SAMREC Type 2500R
 
 ## Outline Experimental Setup
 
-Selected 20-speech sounds from LibriSpeech ASR Corpus were used. The sounds were recorded using the SAMREC 2500R dummy head, controlled by a computer via Sound Blaster Omni Surround 5.1 sound card. The BOSE 101VM loudspeaker was placed at 1.5 m from the center of the dummy head. Reverberation time (RT60) in the normal room was around 300 ms with the average noise level of 43 dB. The SPL (sound pressure level) of the sounds observed near the pinna was 71 dB.
+Selected 20-speech sounds from LibriSpeech ASR Corpus were used. The sounds were recorded using the SAMREC 2500R dummy head, controlled by a computer via Sound Blaster Omni Surround 5.1 sound card. The BOSE 101VM loudspeaker was placed at 1.5 m from the center of the dummy head. Reverberation time (RT60) in the normal room was around 300 ms with the average noise level of 43 dB. The level of the speech sounds observed near the pinna was 71 dB.
