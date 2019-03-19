@@ -6,7 +6,7 @@ The SAMREC dataset is a set of audio recordings made with the [SAMREC Type 2500R
   <img width="99%" src="fig-1.jpg">
 </p>
 
-HRIR Dataset of the SAMREC 2500R Dummy Head Microphones are available on the link below.
+HRIR Dataset of the SAMREC 2500R Dummy Head Microphones are available on the link below:
 
 - [SAMREC 2500R HRIR Dataset](https://github.com/iru-one-syah/SAMREC-2500R-HRIR)
 
