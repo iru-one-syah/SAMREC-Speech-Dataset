@@ -18,7 +18,7 @@ Selected 20-speech sounds from [LibriSpeech ASR Corpus](http://www.openslr.org/1
   <img width="43%" src="fig-2.gif">
 </p>
 
-## Download Links
+## Download Dataset
 
 You can download the dataset from the links below:
 
