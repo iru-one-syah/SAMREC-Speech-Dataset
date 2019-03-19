@@ -23,7 +23,7 @@ Selected 20-speech sounds from [LibriSpeech ASR Corpus](http://www.openslr.org/1
 You can download the dataset from the links below:
 
 - [(171.1 MiB) 01-Normal-Room.zip](https://docs.google.com/uc?export=download&id=1__g-Bg_--9IrA9LaxhhfEARg2SvxtXJN)
-- (165.6 MiB) 02-Anechoic-Room.zip
+- [(165.6 MiB) 02-Anechoic-Room.zip](https://docs.google.com/uc?export=download&id=1OCBcBLshMfsrNv_6yLlUdwIVE-A5Hs4l)
 
 ## License
 
